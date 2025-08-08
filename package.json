@@ -60,11 +60,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://example.com/your/repo.git"
+    "url": "git+https://github.com/graemegeorge/safe-markdown-react.git"
   },
   "bugs": {
-    "url": "https://example.com/your/repo/issues"
+    "url": "https://github.com/graemegeorge/safe-markdown-react/issues"
   },
-  "homepage": "https://example.com/your/repo#readme",
+  "homepage": "https://github.com/graemegeorge/safe-markdown-react#readme",
   "license": "MIT"
 }
