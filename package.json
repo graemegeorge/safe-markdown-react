@@ -66,5 +66,9 @@
     "url": "https://github.com/graemegeorge/safe-markdown-react/issues"
   },
   "homepage": "https://github.com/graemegeorge/safe-markdown-react#readme",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Graeme George"
 }
