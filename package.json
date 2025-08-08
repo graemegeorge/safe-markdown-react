@@ -1,6 +1,6 @@
 {
   "name": "safe-markdown-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Safe, GFM-friendly Markdown to React renderer with sanitation, link policy, and image allowlists.",
   "type": "module",
   "exports": {
